@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=821b7488_002D9f20_002D469e_002D9267_002Dbb8c1732a994/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="One_Hundred_Prisoners_Optimal_Strategy_Has_31_Percent_Success_Rate" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::A8F499C5-708B-4352-8B67-92EF775850B1::net8.0::LT.DevScreen.OneHundredPrisonersTests.One_Hundred_Prisoners_Optimal_Strategy_Has_31_Percent_Success_Rate&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
