@@ -14,6 +14,6 @@ internal static class OneHundredPrisoners
     /// </returns>
     public static bool RunSimulation()
     {
-        throw new NotImplementedException();
+        return false;
     }
 }

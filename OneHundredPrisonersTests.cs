@@ -1,4 +1,6 @@
+using System.Linq;
 using FluentAssertions;
+using NUnit.Framework;
 
 namespace LT.DevScreen;
 
@@ -12,7 +14,7 @@ public class OneHundredPrisonersTests
     {
         const int trials = 333_333;
         var successes = Enumerable.Range(0, trials).Count(_ => OneHundredPrisoners.RunSimulation());
-        var successRate = successes / (double) trials;
+        var successRate = successes / (double)trials;
         successRate.Should().BeApproximately(.31, 0.005);
     }
 }
